@@ -3,6 +3,14 @@
 Welcome to **Quizzzifyy!** 🌟  
 Quizzzifyy is a dynamic single-page web application designed to deliver an engaging and interactive quiz experience. Perfect for testing knowledge or just having fun, it offers multiple-choice questions, real-time feedback, and score tracking—all wrapped in a user-friendly interface.
 
+## 🖼️ Visual Overview
+
+<p align="center">
+  <img src="./screenshots/question-interface.png" alt="Question Interface" width="45%" />
+  <img src="./screenshots/final-score.png" alt="Final Score" width="45%" />
+</p>
+
+
 🌐 **Explore it live at:** [https://quizzzifyy.netlify.app/](https://quizzzifyy.netlify.app/) and dive into the quiz adventure!
 
 ---
@@ -33,10 +41,3 @@ Quizzzifyy is a dynamic single-page web application designed to deliver an engag
 - **Frontend Framework**: React.
 - **Styling**: Tailwind CSS.
 - **Deployment**: Netlify.
-
-
-
-### 1. Clone the Repository:
-```bash
-git clone <repository-url>
-cd quizzzifyy
